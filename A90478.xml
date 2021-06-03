@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Perfect nocturnall of several proceedings between Hiel the Bethelite, and his much indeered spouse Madam Policy. Being a solitary discourse between them both one night in their bed, about the loff of their children, and other accidents that fel out in reference to their building of Jerecho, in and about the time that King Ahab killd and took possession.</title>
+         </titleStmt>
+         <extent>Approx. 28KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90478</idno><idno type="EEBO-CITATION">99865643</idno>
+  <idno type="VID">117891</idno>
+  <idno type="EEBO-PROQUEST">2240927641</idno>
+  
+            <idno type="STC">Wing P1504</idno>
+            <idno type="STC">Thomason E889_2</idno>
+            <idno type="STC">ESTC R206496</idno>
+            <idno type="PROQUEST">99865643</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865643e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90478)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117891)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 134:E889[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Perfect nocturnall of several proceedings between Hiel the Bethelite, and his much indeered spouse Madam Policy. Being a solitary discourse between them both one night in their bed, about the loff of their children, and other accidents that fel out in reference to their building of Jerecho, in and about the time that King Ahab killd and took possession.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>A political satire.</note>
+                  <note>Annotation on Thomason copy: "7ber: [i.e. September] 27: 1656".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Satire, English --  17th century.</term>
+               <term type="topical_term">Political satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="discourse">
+            <pb n="1" facs="tcp:117891:1"/>
+            <head>A PERFECT NOCTURNALL Of several proceedings between Hiel the <hi>Bethe<g ref="char:EOLhyphen"/>lite,</hi> and his much indeered Spouse Madam <hi>POLICY.</hi>
+            </head>
+            <argument>
+               <p>Being a Solitary Discourse between them both one Night in their <hi>BED,</hi> about the loss of their Children, and other accidents that fel out in reference to their building of <hi>Jerecho,</hi> in and about <note place="margin">1 Reg. 16 vlt. Jos<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 6. 26.</note> the time that King <hi>AHAB</hi> killd and took Possession.</p>
+            </argument>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>OH how sad is my condition (my much endeered POL!) who have had the happiness to beget <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o many sweet Children by thee; and how I am like to go to the Grave childless, leaving nothing behind for a memorial of my Name. But accursed <hi>Jerecho</hi> which thou and <hi>I</hi> have unhappily laid the foundation▪ and are now a building.</p>
+            </sp>
+            <sp>
+               <speaker>POL.</speaker>
+               <p>I could wish with al my heart <hi>I</hi> had never put thee upon re<g ref="char:EOLhyphen"/>building that which the power of the Almighty laid flat, even with the ground; I am convinced that <hi>I</hi> have much wronged thee; for all that went before thee, yea and those that were contemporary with thee were al unwilling to touch that which the Lord had struck dead, and forbid to be medledwith, <hi>Josh.</hi> 6. 26.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>Really <hi>Pol</hi> when <hi>I</hi> do remember the happy condition that <hi>I</hi> was in when I lived with thee at BETHEL void of this great care and sorrow that now I hourly undergo, and the great affections that my best Friends bare to me and mine; my very heart breaks in pieces, although <hi>I</hi> am forced for my honor sake to put a good face upon my much trou<g ref="char:EOLhyphen"/>bled and turmoiled <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pi it.</p>
+            </sp>
+            <sp>
+               <speaker>POL.</speaker>
+               <p>Alas poor <hi>Heart, I</hi> dare say that thou canst not chose but be very much troubled, but thou hast a heart of a thousand, for what man in the world could endure to see his deerly begotten Children struck dead gradually before his face, from the Eldest to the youngest, and yet bear it with so much patience and seeming chearfulness as thou dost.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>My <hi>Deere</hi> thou knowest that there is no other way in the world
+<pb n="2" facs="tcp:117891:2"/> to keep us up from sinking under these great disappointments; But to have a good heart though it be against a good Conscience, for other<g ref="char:EOLhyphen"/>wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e we should be a laughing stock not only to the <hi>Bethelites▪</hi> but to all other people in the World who have taken so much notice of our great undertakings.</p>
+            </sp>
+            <sp>
+               <speaker>POL:</speaker>
+               <p>But is there no way left to come off with honour cleverly (for that is a thing persons of our Quality must have a great respect unto) retaining o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r estimation and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> stil with the <hi>Bethelites</hi> and others, and working gradually to the remembrance of our works and underta<g ref="char:EOLhyphen"/>kings out of the hearts and memory of all people.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>Yes, yes <hi>Sweet Heart,</hi> there is a way that we may come off wel enough, with more honour then ever <hi>Thou</hi> and <hi>I</hi> were invested with all. But I am very loath to come of<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that way yet, for it is not usual with persons of our Quality to stoop and creep through so straight a gate as meaner persons do in the like condition that we are in▪</p>
+            </sp>
+            <sp>
+               <speaker>POL:</speaker>
+               <p>Prithee let me hear of that way, and <hi>I</hi> shal quickly tel thee my mind, and deal ingeniously with thee in every thing according to my best Judgement, which hitherto thou hast in some measure <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound fea<g ref="char:EOLhyphen"/>sable.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>Although thou art the <hi>Beloved</hi> of my <hi>Heart,</hi> and hast (til of late) been faithful unto me, yet <hi>I</hi> dare not let <hi>Thee</hi> know that vvay, for tis so contrary to thy dispofition, that <hi>I</hi> am sure thou vvilt never let me go for our Artificers and poor Workmens sake.</p>
+            </sp>
+            <sp>
+               <speaker>POL.</speaker>
+               <p>How canst thou be so bounden from her that never failed thee til counterbuft by a strong irresistable hand? <hi>I</hi> have never been faithless unto <hi>Thee</hi> in my Life, for what's fallen out with us in this Cause, is the same with our dear Cozen <hi>Achitophel</hi> a while ago; therefore find no fault in me. But tel me truly what is the vvay vvhereby thou judgest we may be safe, for indeed at this time <hi>I</hi> do very much question my own abili<g ref="char:EOLhyphen"/>ties as to any thing that may be feasable.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>Then rather then offend and disoblige thee my <hi>Deer,</hi> I tel thee that <hi>I</hi> think the safest way is to leave off building, and return to <hi>Bethel,</hi> and sal down su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> missively at the feet of <hi>Jehovah</hi> whom I have highly of<g ref="char:EOLhyphen"/>fended.</p>
+            </sp>
+            <sp>
+               <speaker>POL:</speaker>
+               <p>Oh! <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow am <hi>I</hi> surprized at this sudden change in <hi>Thee My Deere Heart?</hi> Oh! <hi>y<seg rend="sup">•</seg>
+                  </hi> thou hast never left me since our first acquaintance canst thou have such a thought as to return to <hi>Bethel?</hi> and part with so rare a Fabrick that shortly wil seem (if not slighted by <hi>Thee</hi> and others) rather a Paradise then a <hi>Jericho?</hi> sure <hi>thou</hi> wilt not deal so hard with me as thou didst with others, if thou dost I am utterly undone, for al the Ar<g ref="char:EOLhyphen"/>tificers
+<pb n="3" facs="tcp:117891:2"/> with whom I have contracted wil come upon me to stand to the contract; and if my <hi>deer Husband</hi> leaves me, O what wil become of me! or wherewithall shal I pay them their <note n="o" place="margin">Answer with your Cosen A<g ref="char:EOLhyphen"/>chitophels por<g ref="char:EOLunhyphen"/>tion.</note> wages?</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>Pray <hi>my Deere</hi> be not troubled in mind, nor surprized, this is only a thing that now and then runs through my head, not intended yet, though pretended sometimes to please fools; therefore not asserted possitively to be the way through which <hi>I</hi> shal go. But if <hi>I</hi> did declare it to the world, yet thou knowest that <hi>I</hi> have an excellent faculty to wave and slight it, and if need be to deny it with protestation if <hi>I</hi> see a more probable way for thy welfare and mine.</p>
+            </sp>
+            <sp>
+               <speaker>POL:</speaker>
+               <p>
+                  <hi>I</hi> must confess that many of these things have crept upon my thoughts, but they had but cold entertainment there; but I am so dized of late that <hi>I</hi> do not know wel vvhat to say things are so untoward.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>But what is that thou thinkest best to be done in order to our welfare and future tranquility, prithee ask and give councel.</p>
+            </sp>
+            <sp>
+               <speaker>POL.</speaker>
+               <p>
+                  <hi>I</hi> am at a stand &amp; know not what to say, for my Brother <hi>Honour</hi> bids me go on, my Sister in Law <hi>Prudence</hi> bids me be wise, and truly my thoughts are briefly led thus upon mature consideration too. <hi>viz:</hi> that our only way is topretend some great and weighty matters of import<g ref="char:EOLhyphen"/>ance that cals us away from the work for a while, or else we must plead inability (by reason of Age &amp; much work) to finish so great a Fabrick, &amp; so createsecretly a necessity to get some faithful Friends (if possible) that wil take the work in hand, and carry it on in our Names (or at at least for our good) for our honours sake, that none may have hereafter occasion to say that we began a Work, and were not capable to finish it.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>We have had such bad successes, and the hand of God upon our children, some dying and some lying bare to misfortune, that I fear none wil dare meddle to build upon our foundation, for our Son <hi>Par<g ref="char:EOLhyphen"/>lia</hi> that thou and <hi>I,</hi> &amp; al our Friends had taken so much pains to bring up and order in al things to help us to carry on the work, grew so un<g ref="char:EOLhyphen"/>dutiful and so unserviceable to me in my great undertakings, that <hi>I</hi> was forced to kil him with my own hands; yet <hi>I</hi> am forced and necessita<g ref="char:EOLhyphen"/>ted to name my late infant after that Name, hoping that be wil coura<g ref="char:EOLhyphen"/>giously assist his Aged Father in the carrying on of his great work that at last <hi>I</hi> may <hi>acquiesce</hi> in the work of my hands with comfort. But if he should grow incorrigible and untoward, I intend to improve that way also to the uttermost, that so by his ungratefulness <hi>I</hi> may the more ingratiate my self once more into the affections
+<pb n="4" facs="tcp:117891:3"/> of the Bethelites and others, &amp;c. or by that confusion that may arise by his <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndutifulness, I may have the greatest ooportunity to set up my in<g ref="char:EOLhyphen"/>terest as firm as the Law of the <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>des</hi> and <hi>Persians,</hi> and like the rare Bird o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Arabia</hi> come forth in a glorious hue out of the ashes of <hi>Arnar▪ <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bial</hi> confusion, that may come to pass by the unchild-like carriage of this last infant.</p>
+            </sp>
+            <sp>
+               <speaker>POL:</speaker>
+               <p>Come come my dear <hi>Hiel,</hi> be not cast down at these things though they be contrary to thy great spirit, <hi>I</hi> must confess that although I had many Husbands and many Children by them, yet I have not had such beautiful Children by any one as I have had by <hi>Thee,</hi> for about the middle of thy years, and to these late dayes thy Seed was not corrupt<g ref="char:EOLhyphen"/>ed, so that the <hi>Fruit</hi> of our Bodies were fair and lovely. But now in thy latter dayes thy seed is corrupted, so that our too often lying toge<g ref="char:EOLhyphen"/>ther contrary to former engagements makes our <hi>Issue</hi> uncapable of long life: but if we could but Purge and clear our bodies with safety, <hi>I</hi> trust we should yet wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h that Good man <hi>Job</hi> see good dayes, and have more joy in the future Seed of our Loyns, then in the former that have been slain in the time of the building.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>Really <hi>my deere Pol I</hi> have not been my self as formerly since the death of my once supposed excellency, and as <hi>I</hi> reckoned the begin<g ref="char:EOLhyphen"/>ning of my strength <hi>deerer</hi> unto me then <hi>Jacobs Ruben</hi> my deer and El<g ref="char:EOLhyphen"/>dest child <hi>Ab-Don-Hispaniola,</hi> who if he had lived and come to Age, <hi>I</hi> should not have had an Akeing heart and trembling hands at the unhappy, uncomfortable building, although 20 other Children should have gone to wrack.</p>
+            </sp>
+            <sp>
+               <speaker>POL:</speaker>
+               <p>It went nearest my heart also of al the Children, &amp; truly when I do cal to mind the loss of that sweet face Boy <hi>Senior-plat-fleet,</hi> I can<g ref="char:EOLhyphen"/>not but sit down in sorrow.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL:</speaker>
+               <p>
+                  <hi>I</hi> confess them two Boyes would a been a great stay unto us in our old Age, but now they being gone <hi>I</hi> have no way to subsist (but only by what <hi>I</hi> shal extract, like a rare <hi>Chimist,</hi> from the <hi>Bethelites</hi> by a violent fire as Oyl out of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lint) for those that were my old Credi: tors wil hardly give me any further trust, &amp; new ones <hi>I</hi> cannot get; they see things go so il with me, and my condition is so obvious to every ingenious eye, that 'twil go very hard with me at last, or <hi>I</hi> have exhaus sted almost al my Treasures in the <hi>building</hi> &amp; bringing up my now dead <hi>Children</hi> except that little reserve in <hi>Plate, Jewels, yellow earth, &amp;c.</hi> that thou knowest is laid up for the stormy weather that is to come upon us, vvhich vve must not spend upon ordinary occasions.</p>
+            </sp>
+            <sp>
+               <speaker>POL:</speaker>
+               <p>'Tis very strange and sad, for the more vve build the more is
+<pb n="5" facs="tcp:117891:3"/> our <hi>loss, &amp;c.</hi> for there is no considerable part of the <hi>building</hi> finished, but vve loose a <hi>Child,</hi> or is taken <hi>ill. I</hi> have not seen the like in al my days, for our good Son <hi>Jamaica</hi> and his Nurses are very sick of a violent <hi>Feaver,</hi> and his Attendants are desperately troubled with the <hi>Consump<g ref="char:EOLhyphen"/>tion</hi> which He is very free from himself, being grown very thick▪ vvith faulst fatness in his late Distempers; and our <hi>black Boy Spanish catcher</hi> is sore sick in <hi>Cadiz bay</hi> of a new Disease <hi>called the Mont-ague</hi> which never troubled him before but once at the taking of <hi>Gibralter;</hi> this <hi>Ague</hi> is a great deal worse then the <hi>Kentish Ague</hi> (vvhich trou<g ref="char:EOLhyphen"/>bles<note place="margin">B: or Portingal al<g ref="char:EOLhyphen"/>luding to the Blake boyes work with K▪ John lately.</note> our Brother <hi>Tom: Kelsey</hi> now and then of late) for it brings him down very low for al he vvas too hard for the <hi>Port-Ague.</hi> B.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>
+                  <hi>My deer Pol</hi> since the building of the <hi>Tith ▪ Tower</hi> (whi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h I p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>mised to some Friends that Lives in <hi>Jerusalem</hi> should not be <hi>built</hi>) vve had great Losses for that Boy <hi>Senior Plate▪ Fleet</hi> and some other hopeful Boyes are dead, besides dear Friends, to vvit, <hi>Nol-praying Spirit, Saints Love to me,</hi> and that faithful Friend Sir <hi>Christian Wisdom,</hi> and that Boy that we got in our Progress to <hi>France</hi> is very <hi>sick,</hi> having received his deaths vvound, that nothing can cure but a <hi>benediction</hi> from our Cozen his <hi>Holiness</hi> which wil not make for us a vvhit, his Nature being chang<g ref="char:EOLhyphen"/>ed, and <hi>I</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ear <hi>Mazarine</hi> have been too gracious vvith th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in my absence, so that <hi>I</hi> never looked upon that boy as rightly begotten.</p>
+            </sp>
+            <sp>
+               <speaker>POL:</speaker>
+               <p>
+                  <hi>I</hi> think that tho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> didst not do wel in telling our <hi>Jerusalem</hi> Friends that thou vvouldest not build the <hi>Tyth-Tower,</hi> but rather raise the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ndation by such a time, or else they might cal thee the greatest Jugler in E: and that they might expect that thou vvouldest Juggle them in al other things else, vvhereas thou shouldest (as thou hast a brave <hi>Faculty</hi> sometimes) vvave that in expectation of the first Fruits of so rare <hi>a Fabrick.</hi> And as for <hi>Mazarin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> being too gracious with me; tis true <hi>I</hi> am a great Lover of the Man for his ingenuity, and if you and I do take our Pro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ress to <hi>Rome,</hi> we must do as <hi>Rome</hi> doth.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL,</speaker>
+               <p>
+                  <hi>VVel said Pol,</hi> there is no vvonder then that our <hi>Swedish</hi> BOY got in the vvay to <hi>Poland</hi> in our late progress there (accomodated with our <hi>New Lorded Estatles</hi> Cozen) is very sick, having received his sore wound very lately at <hi>Warsovia</hi> seeing you are so apt to fal in Love with Forraign <hi>Princes, &amp;c.</hi> I am sure vvhen vve kept our progress in the Land of <hi>Israel</hi> our Children vvere rightly begotten, and thrived vvel in every Respect, but since vve took our Progress beyond Seas, I do really believe that every child vve have had are BASTARD<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+            </sp>
+            <sp>
+               <speaker>POL:</speaker>
+               <p>Not so Sir I <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rovv, for our <hi>Neatherland-boy</hi> vvas t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uly bego<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and thrives vvel, &amp; although there be a hand-writing against us at pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>sent,
+<pb n="6" facs="tcp:117891:4"/> yet that Boy <hi>I</hi> hope wil be a comfort unto us in our old age:</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>How darest thou say 'twas truly begotten, when the <hi>Heer Mogens</hi> were sore sick of the Flux, and could no way stop it, (as thou hast confest to me in private) but by getting into thy favour with whom thou hast committed <hi>Adul ery;</hi> and besides thou knowest <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow necessity drove me almost to be a pandar unto <hi>thee</hi> that Time, but shame bid me go out of the room, and leave <hi>thee</hi> with <hi>thy Lover,</hi> therefore <hi>I</hi> ex<g ref="char:EOLhyphen"/>pect the <hi>death</hi> of that Boy unless <hi>I</hi> were capable to give him a golden Bil.</p>
+            </sp>
+            <sp>
+               <speaker>POL.</speaker>
+               <p>'Tis very true they were sadly troubled with the Flux, but canst <hi>thou</hi> think in thy Heart that <hi>I</hi> had any way regarded that, for what are they to me, had not thy great necessity in reference to the building called me <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o do what <hi>I</hi> did.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>Prithee <hi>Pol</hi> be honest if thou canst possible, else by that that time the Gates are set up we shal not have a Son alive, &amp; 'twould trouble us both to go to the Grave childless.</p>
+            </sp>
+            <sp>
+               <speaker>POL.</speaker>
+               <p>Thou knowest <hi>my Deere <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>I</hi> have alwaies been faithful to <hi>thee</hi> til <hi>Thou</hi> and <hi>I</hi> took our progr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss to the <hi>West-indies,</hi> where through the constitution of the Country I became unsatiable in my desires, that truly I have not been satisfied since ▪ but o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce a little with much ado at <hi>Lisbon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>EL,</speaker>
+               <p>Oh that <hi>West india</hi> progress breaks my beart when <hi>I</hi> think of it, and real<g ref="char:EOLhyphen"/>ly <hi>I</hi> think <hi>I</hi> shal never forger it, for 'tis so hot a Country that it hath not onely <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and and mard my Beauty, but dryed up almost all my blood, and although <hi>I</hi> take an ex<g ref="char:EOLhyphen"/>cellent cause to increase and recruit it, yet <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> find very little benefit by it, for as fast as <hi>I</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ruit, it dries away, onely this <hi>I</hi> finde that if I had not taken this course to recruite, <hi>I</hi> should hardly have had a drop of blood left in my body by this time.</p>
+            </sp>
+            <sp>
+               <speaker>POL:</speaker>
+               <p>I feare that of late <hi>thou</hi> hast been somewhat <hi>a</hi> stranger to our dear Cozens Doctor <hi>Machavel,</hi> and Doctor <hi>VVentworth,</hi> else thy distemper could not be so bad: <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<g ref="char:EOLhyphen"/>thee</hi> send▪ for <hi>them</hi> both and advise with them▪ for <hi>thou</hi> knowest <hi>their abilitie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> &amp; they know thy distemper of old, do not neglect <hi>thy</hi> self least thy Disease grow uncurable, for then <hi>I</hi> shal be very loath to lye by <hi>Thee,</hi> for <hi>I</hi> may expect nothing of it but <hi>de<g ref="char:EOLhyphen"/>ceitful Children</hi> that wil be so loathsome that <hi>I</hi> shal not enjoy my self with <hi>comfort,</hi> and withal <hi>they</hi> cannot be long liv'd.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>I could wish with my soul that <hi>I</hi> had never taken one Dose of physick from <hi>them,</hi> for <hi>I</hi> have not been been wel since, if <hi>I</hi> had kept in with Doctor <hi>Christian piu<g ref="char:EOLhyphen"/>dence I</hi> should have done wel enough; but since <hi>I</hi> left him I had not one good nights rest although <hi>I</hi> am very carefully attended.</p>
+            </sp>
+            <sp>
+               <speaker>POL.</speaker>
+               <p>Oh my <hi>deere Hiel,</hi> why shouldest Thou say so? for both my Sons <hi>Machiavel</hi> and <hi>Wen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>worth</hi> protested unto me more then once that <hi>they</hi> have been as faithfully careful of <hi>Thee</hi> as of their own souls, and do but compare the Receipts that they gave <hi>Thee</hi> vvith their Works that are extant, and <hi>thou</hi> wilt finde no difference, and as to <hi>thy</hi> private distemper compare the soveraign Recei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts that my Cozen <hi>WENTWORTH</hi> gave thy predecessor (vvhich thou hast got <hi>printed) I</hi> say compare them vvith those of both my Cozens to <hi>Thee,</hi> and <hi>thou</hi> wilt find that <hi>they</hi> have used <hi>their uttermost endeavour</hi> to keep Life in <hi>thee,</hi> and if possible to re<g ref="char:EOLhyphen"/>cover <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:117891:4"/>
+               <speaker>HIEL.</speaker>
+               <p>I do confess that they have used their uttermost indeavour, but 'twil not do, for they do not nor cannot understand my distempers and constitution of my bo<g ref="char:EOLhyphen"/>dy, neither dare <hi>I</hi> let them know it, for then they would apply such Medicines that would be too violent for me, that <hi>I</hi> should be forced to be let blood in the Neck vain as my predecessor was.</p>
+            </sp>
+            <sp>
+               <speaker>POL.</speaker>
+               <p>What then canst thou think to be the best way to recover thee to thy for<g ref="char:EOLhyphen"/>mer health, or who wouldest thou have for thy Physitian, for after this rate thou dost but linger, and at last thou wilt be gone al on a sudden.</p>
+            </sp>
+            <sp>
+               <speaker>H<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>EL.</speaker>
+               <p>The best course that <hi>I</hi> can take for my recovery if <hi>I</hi> could bring my heart unto it is to go up to <hi>Jerusalem,</hi> for there in <hi>Zion</hi> the City of <hi>David</hi> there is, the most absolute physitian in the world, and has such attendants about him that would ne<g ref="char:EOLhyphen"/>ver rest nor take their pleasure (as those drones do that belongs to <hi>Machavel,</hi> and <hi>Wentworth</hi>) until <hi>I</hi> were fully recovered; but <hi>I</hi> am ashamed to go thither, for <hi>I</hi> have offended them all, Doctors and Attendants, that <hi>I</hi> do somewhat scruple whither they would have any thing to do with me or no.</p>
+            </sp>
+            <sp>
+               <speaker>POL:</speaker>
+               <p>What would become of me if thou shouldest go thither▪ for thou knowest they hate me there as bad as my <hi>Brother Lucifer,</hi> and <hi>I</hi> am confident upon <hi>thy</hi> reco<g ref="char:EOLhyphen"/>very they would go near to divorce us, and I poor <hi>I</hi> should be forced <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o seek another Husband, which <hi>I</hi> am sure would break my heart, for <hi>I</hi> should never get one that should make so much of me as thou hast done.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL,</speaker>
+               <p>My deerest <hi>Heart</hi> fear thou not, but <hi>I</hi> shal take care of thee, for it <hi>I</hi> am for<g ref="char:EOLhyphen"/>ced to go up to <hi>Jerusalem,</hi> ile bring thee home to <hi>Bethel,</hi> and leave thee there til <hi>I</hi> am fully recovered, and then all the wits in <hi>Jerusalem,</hi> and <hi>Davids</hi> City shal not divorce me from <hi>thee,</hi> but <hi>I</hi> shal return home to <hi>thee,</hi> and <hi>I</hi> hope live at <hi>Bethel</hi> as comfortably as ever <hi>I</hi> did, and let whose wil build <hi>Jerecho.</hi>
+               </p>
+               <p>Wel, let's not be too hasty in this thing▪ but go on in our building, and get our Cozens <hi>Machiavel</hi> and <hi>Wentworth</hi> close to us; and if we could get some better atten<g ref="char:EOLhyphen"/>dance with them it would be better; suppose thou wouldst send privatly for some of the <hi>Jerusalem Doctors attendants,</hi> doubtless they would be very instrumental unto <hi>thee</hi> in thy sickness.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>Truly <hi>Pol I</hi> do not intend hast in the business of <hi>Jerusalem,</hi> for by my good wil Ishal never go thither while <hi>I</hi> breath, but if <hi>I</hi> am forced <hi>I</hi> cannot help it, thou knowest that <hi>necessity hath no law;</hi> but as to get <hi>better attendance</hi> it is impossible, unless I would change my Doctors, for these <hi>I</hi> have do know the <hi>Doctors</hi> minde in every thing that now <hi>I</hi> have; and as to get any of the <hi>Jerusalem Doctors attendants</hi> wil never be, they are so faithful to their Master and his interest, that no honour that <hi>I</hi> can con<g ref="char:EOLhyphen"/>fer upon them wil make them budg or stir a step for me.</p>
+            </sp>
+            <sp>
+               <speaker>POL.</speaker>
+               <p>Then <hi>my Deere</hi> if thou thinkest so we must make the most of those we have and give them as much incouragement as we can, for most of them do complain for wages, and are fain to run on the score, and build Sconches as wel as we build <hi>Jere<g ref="char:EOLhyphen"/>cho,</hi> which is a great shame unto us, among other things, <hi>&amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>HIEL:</speaker>
+               <p>Oh, that <hi>West-india progress</hi> hath put me quite out of capacity, together with my <hi>Streights progress</hi> to see my Cozen the <hi>Grand Senior,</hi> who did not very kindly en<g ref="char:EOLhyphen"/>tertain me, <hi>&amp;c.</hi> And the great charges about the recovery of Son <hi>Senior Plat fleet,</hi> o<g ref="char:EOLhyphen"/>therwise <hi>I</hi> had been in as good a capacity to incourage my Attendance, Artificers, and Workmen as any man in the world.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:117891:5"/>
+               <speaker>POL:</speaker>
+               <p>Push, thou must be contented, for these are but common providence and try<g ref="char:EOLhyphen"/>als to exercise thy Faith and patience, <hi>&amp;c</hi> go on in thy work and prosper, and if any <hi>Michaiahs</hi> stand in thy way, or speak against thee, do with him as King <hi>Ahab</hi> did until thou finish thy intended work, and then thou maist order him as thou wilt, when thou returnest in peace as he did.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>Wel I have prosecuted this principle and practice too hard, I wish I had never known it, for thou knowest I have me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with some <hi>Michaia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> already, and have writ against them by my deer Master King <hi>Ah<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bs</hi> copy; but they are of all the world like our Ancestors in <hi>Egypt,</hi> for the more they suffer the more they increase, and it was the worst counsel that ever thou gavest me in thy dayes to meddle with them, for if I had let them alone, and took no notice of them, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orwardest of them would a been Weary ere this time finding no opposition; but my hard dealing with them made others to look upon the <hi>Building</hi> earnestly, and secretly to <hi>Survey</hi> it, who do publickly declare against it that the foundation is not firm▪ and that 'tis contra<g ref="char:EOLhyphen"/>ry to <hi>Joshuas command,</hi> and my own <hi>Engagements</hi> often at <hi>Jerusalem,</hi> and that of neces<g ref="char:EOLhyphen"/>sity it must needs fal and come to nothing although we take great care and pains night and day in the management thereof.</p>
+            </sp>
+            <sp>
+               <speaker>POL.</speaker>
+               <p>I tel thee <hi>Hiel</hi> thou art not to humor such kind of fellows, whatever comes of it, for they know not what they would have, and withal they are wholy bent for the house of <hi>David,</hi> which run clear against our interest, and our Gods, which good King <hi>Jeroboam</hi> set up in <hi>Dan,</hi> and our own Town, what have we to do with <hi>David▪</hi> we have no Inheritance in the son of <hi>Jesse, &amp;c.</hi> I cannot endure to hear of them, much less to fal in with them, for they never loved me in their lives, but so far as <hi>I</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an with their judgement, and made for their Religion and interest, which I never loved, or cared <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or, it's possible they would be indulgent unto thee, but I am sure it would go very hard and sad with me.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>
+                  <hi>My deere Pol,</hi> thou needest not fear that I shal fal in with them in hast, it shal be a greater necessity then I can yet discover, though I am much str<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ightned at present, that shal make me adress my self, or in the least condescend unto them.</p>
+            </sp>
+            <sp>
+               <speaker>POL.</speaker>
+               <p>
+                  <hi>I</hi> would not have thee to have a thought that way, for there is no mercy to be expected from them.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL:</speaker>
+               <p>Come thou art very much mistaken in that <hi>Pol,</hi> for I must needs tel▪ thee that my heart tels me that <hi>I</hi> may say of them and find it so, as my Cozen <hi>Benhadads</hi> servants said of our Kings, that they were merciful.</p>
+            </sp>
+            <sp>
+               <speaker>POL.</speaker>
+               <p>'Twil be wel if we find it so (if need require) which indeed I very much fear and dread, how ever let not so rare a <hi>Fabrick</hi> as <hi>Jerecho</hi> be neglected from being finished.</p>
+            </sp>
+            <sp>
+               <speaker>HIEL.</speaker>
+               <p>
+                  <hi>I</hi> do not intend it, thou mayest believe me whatever thou and the Artifi<g ref="char:EOLhyphen"/>cers (who narrowly pries into every action of mine) may fear and dread, for I intend more faithfulness to your interest (if we can safely bring it about) then to a<g ref="char:EOLhyphen"/>ny interest that yet I pretended for in my life.</p>
+            </sp>
+            <sp>
+               <speaker>POL.</speaker>
+               <p>Wel fare thy heart, go on prosperously to the hearts content of all our faithful Friends, though we go to the Grave childless; and so good night deer <hi>Hiel,</hi> for the Fidlers, and whole kennel of Musi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ioners are gone to Rest.</p>
+            </sp>
+            <closer>Bonis Noses.</closer>
+            <pb facs="tcp:117891:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
